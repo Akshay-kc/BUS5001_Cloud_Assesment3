@@ -5,8 +5,8 @@
 i. Accuracy and Relevance of Output
 - Most of the AI-generated content was accurate and highly relevant to my uploaded course notes.
 - Key academic concepts were correctly extracted (e.g., Cloud Adoption Framework, Security Concepts, Workflow Automation Tools).
-•	Citations and document sourcing worked well, enhancing trust in the AI’s responses.
-•	Occasionally, small overlaps or repetition occurred in summarization, but these did not impact correctness.
+- Citations and document sourcing worked well, enhancing trust in the AI’s responses.
+- Occasionally, small overlaps or repetition occurred in summarization, but these did not impact correctness.
 
 ## ii. Usefulness in Academic Workflows
 NotebookLM proved highly useful for:
@@ -23,10 +23,10 @@ NotebookLM proved highly useful for:
 
 
 ## iii. Limitations, Biases & Concerns
-•	Hallucination Risk: Since NotebookLM only used uploaded materials, hallucination was minimal. However, outside-source AI tools may generate false info.
-•	Over-summarization: Some topics were simplified, requiring manual review for full academic depth.
-•	Privacy: If used with sensitive or unpublished academic data, privacy policies must be carefully managed.
-•	Model Dependency: Over-reliance may reduce critical thinking if students do not verify AI outputs.
+- Hallucination Risk: Since NotebookLM only used uploaded materials, hallucination was minimal. However, outside-source AI tools may generate false info.
+- Over-summarization: Some topics were simplified, requiring manual review for full academic depth.
+- Privacy: If used with sensitive or unpublished academic data, privacy policies must be carefully managed.
+- Model Dependency: Over-reliance may reduce critical thinking if students do not verify AI outputs.
 Overall, these risks were manageable within supervised academic use.
 
 ## Evidence-Based Conclusion

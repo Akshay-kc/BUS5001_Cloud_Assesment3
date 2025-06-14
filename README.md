@@ -1,8 +1,8 @@
 # BUS5001_Cloud_Assesment3 22116418
 ## Note: The answer for Question 4(c) is provided in this README file. Screenshots for Question 4(b) have been uploaded to the repository, along with the .ipynb file for Question 3. However, the notebook is not displaying properly on GitHub, so it needs to be downloaded to view it correctly.
 
-(c): Critical Evaluation of NotebookLM
-i. Accuracy and Relevance of Output
+# (c): Critical Evaluation of NotebookLM  
+## i. Accuracy and Relevance of Output
 - Most of the AI-generated content was accurate and highly relevant to my uploaded course notes.
 - Key academic concepts were correctly extracted (e.g., Cloud Adoption Framework, Security Concepts, Workflow Automation Tools).
 - Citations and document sourcing worked well, enhancing trust in the AI’s responses.
@@ -26,7 +26,7 @@ NotebookLM proved highly useful for:
 - Hallucination Risk: Since NotebookLM only used uploaded materials, hallucination was minimal. However, outside-source AI tools may generate false info.
 - Over-summarization: Some topics were simplified, requiring manual review for full academic depth.
 - Privacy: If used with sensitive or unpublished academic data, privacy policies must be carefully managed.
-- Model Dependency: Over-reliance may reduce critical thinking if students do not verify AI outputs.
+- Model Dependency: Over-reliance may reduce critical thinking if students do not verify AI outputs.<br>
 Overall, these risks were manageable within supervised academic use.
 
 ## Evidence-Based Conclusion

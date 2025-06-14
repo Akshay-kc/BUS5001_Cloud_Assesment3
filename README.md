@@ -11,12 +11,16 @@ i. Accuracy and Relevance of Output
 ## ii. Usefulness in Academic Workflows
 NotebookLM proved highly useful for:
 
-Academic Task          	Usefulness
-Exam revision	          Quick summaries, quizzes, mind maps
-Assignment writing	    Organized briefing documents
-Lecture review	        Targeted Q&A interactions
-Research prep	          Glossary and key concept extraction
-Study planning	        Visual mind map structure
+### Academic Task vs Usefulness of NotebookLM
+
+| **Academic Task**  | **Usefulness** |
+|--------------------|-------------------------|
+| Exam revision      | Quick summaries, quizzes, mind maps |
+| Assignment writing | Organized briefing documents |
+| Lecture review     | Targeted Q&A interactions |
+| Research prep      | Glossary and key concept extraction |
+| Study planning     | Visual mind map structure |
+
 
 ## iii. Limitations, Biases & Concerns
 •	Hallucination Risk: Since NotebookLM only used uploaded materials, hallucination was minimal. However, outside-source AI tools may generate false info.

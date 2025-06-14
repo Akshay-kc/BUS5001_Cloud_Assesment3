@@ -3,8 +3,8 @@
 
 (c): Critical Evaluation of NotebookLM
 i. Accuracy and Relevance of Output
-•	Most of the AI-generated content was accurate and highly relevant to my uploaded course notes.
-•	Key academic concepts were correctly extracted (e.g., Cloud Adoption Framework, Security Concepts, Workflow Automation Tools).
+- Most of the AI-generated content was accurate and highly relevant to my uploaded course notes.
+- Key academic concepts were correctly extracted (e.g., Cloud Adoption Framework, Security Concepts, Workflow Automation Tools).
 •	Citations and document sourcing worked well, enhancing trust in the AI’s responses.
 •	Occasionally, small overlaps or repetition occurred in summarization, but these did not impact correctness.
 
